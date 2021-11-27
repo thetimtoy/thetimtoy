@@ -1,2 +1,2 @@
-- Hello. I'm timtoy, a learning Python developer. 
-I currently make Discord bots.
+- Hello, I'm Tinoy. And I'm stupid.
+Yes, that's all you really need to know.
